@@ -33,7 +33,7 @@ Currently learning and building projects using modern cloud platforms and data t
 ## Connect With Me
 
 - LinkedIn: Add your LinkedIn profile link
-- Portfolio: dhrutiportfolio-26-cedzdaf6eqczd0bx.newzealandnorth-01.azurewebsites.net
+- Portfolio: https://dhrutiportfolio-26-cedzdaf6eqczd0bx.newzealandnorth-01.azurewebsites.net
 ---
 
 Thank you for visiting my profile!
