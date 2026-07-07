@@ -32,7 +32,7 @@ Currently learning and building projects using modern cloud platforms and data t
 
 ## Connect With Me
 
-- LinkedIn: Add your LinkedIn profile link
+- LinkedIn: https://www.linkedin.com/in/savani-dhruti-77b018327
 - Portfolio: https://dhrutiportfolio-26-cedzdaf6eqczd0bx.newzealandnorth-01.azurewebsites.net
 ---
 
