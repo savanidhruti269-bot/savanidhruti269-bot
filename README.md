@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Dhruti Savani 👋
 
-<!--
-**savanidhruti269-bot/savanidhruti269-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am a Master of Applied Technology student passionate about Cloud Computing, Data Analytics and emerging technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning and building projects using modern cloud platforms and data tools.
+
+## Skills
+
+☁️ Cloud Computing  
+📊 Data Analytics  
+🐍 Python  
+☕ Java  
+🗄️ SQL  
+📈 Power BI  
+🌐 HTML & CSS  
+☁️ Microsoft Azure  
+
+## Projects
+
+### Personal Portfolio Website
+- Built a portfolio website using HTML and CSS
+- Deployed using Microsoft Azure App Service
+- Managed source code using GitHub
+
+## Currently Learning
+
+- Cloud deployment workflows
+- Data Analytics techniques
+- Software development practices
+
+## Connect With Me
+
+- LinkedIn: Add your LinkedIn profile link
+- Portfolio: Add your Azure website link
+
+---
+
+Thank you for visiting my profile!
